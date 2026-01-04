@@ -21,4 +21,4 @@ When colliding, the player will fall off of the track with a ragdoll and a promp
 #### Speed Boost
 The player will receive double speed and score for 5 seconds with a zoomed out field of view.
 #### Score Boost
-The score will increase by a random amount.
+The players current score will increase by a random amount.
