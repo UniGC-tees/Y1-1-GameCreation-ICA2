@@ -1,6 +1,6 @@
 # GDD
 ## Main Menu
-The build will load into a main menu that shows an NPC player skating along a looping track. There will be an option to play both the tutorial or the main game. There will also be an option to exit the game to the desktop.
+The build will load into a main menu that shows an NPC player skating along a looping track. There will be an option to play both the tutorial or the main game along with the option to exit the game to the desktop.
 ## Tutorial
 The tutorial will teach the player how to strafe along track lanes, avoid obstacles and pick up items while still being safe from any actual harm. The tutorial will first load into a main screen that explains the main game along with the fact that 10,000 score is needed for the final segment to show up.
 ## Player
